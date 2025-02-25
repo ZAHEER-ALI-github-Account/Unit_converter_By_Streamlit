@@ -86,4 +86,4 @@ if st.button("Convert"):
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ by [Your Name]")
+st.markdown("Made with ❤️ by Zaheer Ali")
